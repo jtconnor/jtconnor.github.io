@@ -4,6 +4,9 @@ url:                 http://blog.jtconnor.com
 paginate:            5
 baseurl:             ""
 
+# google analytics
+analytics_id: UA-101158951-1
+
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.

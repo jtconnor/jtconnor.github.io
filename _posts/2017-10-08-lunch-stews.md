@@ -3,7 +3,7 @@ layout: post
 title:  "Lunch Stews"
 categories: food
 ---
-I like bringing my lunch to work to eat healthier and be thriftier, but I don't
+I like bringing my lunch to work to eat healthy and be thrifty, but I don't
 like making my lunch in the morning because I feel rushed for time.
 
 The last couple weeks I've tried making a stew on the weekend and eating it for
@@ -31,24 +31,24 @@ added these spices:
 - 4 cardamom pods, ground
 - 1/4 tsp cayenne
 
-sauteed for a minute before adding:
+sauteed for a minute, added:
 - 28oz can diced tomatoes
 - 15oz can coconut milk
 - 1 quart veggie broth
 
-brought to a boil and added:
+brought to a boil, added:
 - 1 cup red lentils
 
-reduced heat to simmer, simmered 10 minutes, and added:
+reduced heat to simmer, simmered 10 minutes, added:
 - 2 pac choi, chopped up
 
-simmered 10 minutes and added:
+simmered 10 minutes, added:
 - 2 cups baby kale
 
 simmered 5 minutes, adjusted salt, and done.
 
 It turned out great!  Coconut milk makes things delicious :)  I also like
-that the stews are flexible enough that I can add in whatever leftover veggies
+that stews are flexible enough that I can add in whatever leftover veggies
 I have (pac choi and kale this time).
 
 What do you do for lunch?  Do you have any tasty, easy, healthy lunch

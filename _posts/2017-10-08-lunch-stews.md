@@ -50,6 +50,3 @@ simmered 5 minutes, adjusted salt, and done.
 It turned out great!  Coconut milk makes things delicious :)  I also like
 that stews are flexible enough that I can add in whatever leftover veggies
 I have (pac choi and kale this time).
-
-What do you do for lunch?  Do you have any tasty, easy, healthy lunch
-suggestions?

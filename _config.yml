@@ -1,7 +1,7 @@
 # Setup
 title:               James's Blog
 url:                 https://jtconnor.github.io
-paginate:            5
+paginate:            100
 baseurl:             ""
 
 # google analytics

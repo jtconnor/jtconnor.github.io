@@ -2,8 +2,10 @@
 layout: post
 title:  "Getting Things Done in Asana (#2)"
 ---
-I organize my work in Asana per David Allen's [Getting Things Done](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/) (
-[summary](https://www.samuelthomasdavies.com/book-summaries/business/getting-things-done/)) because it helps me keep track of and make progress on lots of things.
+I organize my work in Asana per David Allen's [Getting Things
+Done](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/)
+([summary](https://www.samuelthomasdavies.com/book-summaries/business/getting-things-done/))
+because it helps me keep track of and make progress on lots of things.
 
 Here I describe the mechanics of how I implement Getting Things Done (GTD) in
 Asana in order to (hopefully) help others looking for ways to implement GTD.
@@ -22,8 +24,8 @@ re-organize digital things.
 
 I create an Asana project for each of my GTD categories of Projects, Next
 Actions, Waiting for, Tickler, Someday, and Areas of focus.  Note that the word
-"project" is overloaded here (ugh) and can refer to either an Asana project
-or a GTD project.
+"project" is overloaded here (ugh) and can refer to either an Asana project or
+a GTD project.
 
 ## Projects
 
@@ -41,9 +43,8 @@ If one of my GTD projects is blocked on something I'm waiting for, I create a
 sub-task for that project and add that sub-task to the "Waiting for" Asana
 project.  If I should follow up on the blocker at some point, I assign the
 sub-task to myself and set the due date to when I should follow up.  I also
-move the blocked GTD project to the "Waiting for" section within the
-"Projects" Asana project so that I won't always see it when reviewing open GTD
-projects.
+move the blocked GTD project to the "Waiting for" section within the "Projects"
+Asana project so that I won't always see it when reviewing open GTD projects.
 
 If one of my GTD projects is blocked on something that I can't do now but will
 be able to do at some point in the future, I create a sub-task for that
@@ -92,4 +93,6 @@ of what's important when prioritizing current and potential projects.
 
 You can see an example Asana workspace organized for GTD by logging into Asana
 using reverse-letters(elpmaxedtg+ronnoctj)@gmail.com and
-reverse-letters(enodsgnihtehtllagnitteg).  Note to replace the reverse-letters() sections with the contained letters reversed, e.g. reverse-letters(cba) => abc.
+reverse-letters(enodsgnihtehtllagnitteg).  Note to replace the
+reverse-letters() sections with the contained letters reversed, e.g.
+reverse-letters(cba) => abc.

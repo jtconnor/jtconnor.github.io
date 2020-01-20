@@ -18,5 +18,6 @@ This tax savings trick is a bad deal for the government.  Here are a couple opti
 References:
 
 [1] https://smartasset.com/taxes/new-york-tax-calculator
+
 [2] https://www.irs.gov/publications/p561#idm140501147889776
 

@@ -8,11 +8,11 @@ George lives in NYC, makes $10,000,000 a year, and buys a $100,000 painting from
 
 The IRS won't allow people to deduct arbitrary amounts for their donations.  They require a qualified appraisal made by a qualified appraiser and the completion of various other forms and documentation [2].
 
-But a unique piece of art is tricky to value, valuation experts are likely to be connected with the art dealer or the museum, and both the art dealer and the museum have every reason to inflate the value of the painting.  For the art dealer, a high appraisal shows that the art dealer's wares are a great investment.  It also pleases George, who just gave the art dealer $100,000 and might buy more in the future.  For the museum, a high appraisal shows that the museum has a very valuable collection.  It also pleases George, who just donated a $1,000,000 painting and might donate more in the future.
+But art is unique and tricky to value.  Valuation experts are likely to be connected with the art dealer or the museum and both the art dealer and the museum have every reason to inflate the value of the painting.  For the art dealer, a high appraisal shows that the art dealer's wares are a great investment.  It also pleases George, who just paid the art dealer $100,000 and might buy more in the future.  For the museum, a high appraisal shows that the museum has a very valuable collection.  It also pleases George, who just donated a $1,000,000 painting and might donate more in the future.
 
 This tax savings trick is a bad deal for the government.  Here are a couple options to prevent this trick:
 
-- Only allow deducting up to the price paid for art.  Then George would only be allowed to deduct up to the price he paid for the painting ($100,000), not the appraised price.
+- Only allow deducting donations up to the original price paid.  Then George would only be allowed to deduct up to the price he paid for the painting ($100,000), not the appraised price.
 - Don't allow tax deductions for charitable donations.
 
 References:

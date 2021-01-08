@@ -2,7 +2,11 @@
 layout: post
 title:  "Car Quotes (#4)"
 ---
-I was at a car dealership today where they’d created posters with car-related quotes.  I think the quotes were intended to be inspirational but came off more as a sobering commentary on car consumerism:
+I was at a car dealership today where they’d created posters with car-related
+quotes.  I think the quotes were intended to be inspirational but came off more
+as a sobering commentary on car consumerism.  I wonder if the person who
+created the posters was trolling, copy-pasted from wikiquote without
+thinking about what the quotes mean, or ?
 
 ![The car has become an article of dress without which we feel uncertain, unclad, and incomplete.](https://lh3.googleusercontent.com/tjMvwNLdTKicyzg_aRmHmYEeTNQB0EGghoGfqcuUqtMzN4yGFg4gLHEJAX80OAeiMBQXRcspZ-v2M5wWvaDoJ_sqzm9Ny-ae5fVe-HH_7REFPmyTxL7N32ttegKzU-p_srzqxai9VSc=w2400)
 <!--- I generated the inline image URLs using https://ctrlq.org/google/photos/ and the google photos URLs. --->
@@ -19,5 +23,3 @@ I was at a car dealership today where they’d created posters with car-related 
 
 ![Americans are broad-minded people.  They’ll accept the fact that a person can be an alcoholic, a dope fiend, and even a newspaperman, but if a man doesn’t drive, there is something wrong with him.](https://lh3.googleusercontent.com/ASmCkzZ1reEZOC_HOAH9slz85beqVADb9-5KTftbxjvQudV55JudcxV0uCLzD0AhTGYVgEt4-6OIUxipCizZ6pTl7vYlXFz8a8OIY-jeiwbvndlph8IlVttJuV0TKLLmvFCHbpRMDbA=w2400)
 <!--- https://photos.app.goo.gl/hxUCcwrqex7dmYkS8 --->
-
-I wonder if the person who created the posters was trolling, or copy-pasted from wikiquote without thinking about what the quotes mean, or...

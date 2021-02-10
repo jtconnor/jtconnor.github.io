@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Getting Things Done in Asana (#2)"
+title:  "Getting Things Done in Asana"
 ---
 I organize my work in Asana per David Allen's [Getting Things
 Done](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/)

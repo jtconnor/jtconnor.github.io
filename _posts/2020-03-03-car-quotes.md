@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Car Quotes (#4)"
+title:  "Car Quotes"
 ---
 I was at a car dealership today where they’d created posters with car-related
 quotes.  I think the quotes were intended to be inspirational but came off more

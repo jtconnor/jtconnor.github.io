@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tax Savings on Art (#3)"
+title:  "Tax Savings on Art"
 ---
 I smiled when I read about how this [banana duct-taped to a wall](https://news.artnet.com/art-world/maurizio-cattelan-banana-collector-1728009) fetched $120,000 at Art Basel and it got me thinking about art prices.  It seems like people can actually make money by buying and donating art and that may contribute to the craziness of art prices.  Here's an example of how that could work.
 

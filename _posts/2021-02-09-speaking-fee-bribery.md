@@ -43,6 +43,7 @@ a company pays to a former government official is:
 particular company,
 * substantially different from work payments the official received before holding office, and
 * substantially different from work payments received by the official's peers that haven't served in government,
+
 then the former government official shouldn't be allowed to accept that work payment.
 
 This criterion would disallow Yellen's speaking fees after leaving office because they're:

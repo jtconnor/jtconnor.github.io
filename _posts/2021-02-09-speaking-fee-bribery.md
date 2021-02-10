@@ -41,7 +41,7 @@ think that a work payment (speaking fee, consulting fee, job salary, etc.) that
 a company pays to a former government official is:
 * likely affected by how that official's actions in office affected that
 particular company,
-* substantially different from work payments the official received before holding office, and
+* substantially different from work payments the official received before leaving office, and
 * substantially different from work payments received by the official's peers that haven't served in government,
 
 then the former government official shouldn't be allowed to accept that work payment.

@@ -16,18 +16,18 @@ L’Ambroisie offers an a la carte menu in French only.  I don’t speak French
 very well and the waiter offered to explain the menu to us in English.  He
 explained “Composé d’agneau de Lozère, salmigondis de légumes racines” as “the
 lamb” and gave similarly curt descriptions for the other menu items.  If he’d
-cared about us understanding the menu, he would have described the dishes to us
-in English or even just plugged the menu into Google translate instead of
+cared about us understanding the menu, he would have actually described the
+dishes to us or even just plugged the menu into Google translate instead of
 leaving us to figure things out with our phones.  We also weren’t the only
 guests uncomfortable in French.  I didn’t hear a single native French speaker
 among the other guests.  L’Ambroisie is tourist-unfriendly restaurant for
 tourists.
 
-At one point in the evening, a waiter came by to present a basket of white
+Later in the evening, a waiter came by to present a basket of white
 truffles from Alba.  This ceremonial truffle viewing felt silly, though the
 truffles were indeed very big and handsome. When the waiter presented the
 truffles to an older American woman at the table next to us, she reached to
-grab one.  The waiter snatched back the basket and had a big laugh at her along
+grab one.  The waiter snatched back the basket and had a big laugh along
 with the other two waiters in the room.  Apparently this woman had never
 participated in a ceremonial truffle viewing and when presented with truffles
 in a basket very similar to the bread basket used to serve her bread earlier in

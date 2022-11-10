@@ -20,7 +20,7 @@ cared about us understanding the menu, he would have actually described the
 dishes to us or even just plugged the menu into Google translate instead of
 leaving us to figure things out with our phones.  We also weren’t the only
 guests uncomfortable in French.  I didn’t hear a single native French speaker
-among the other guests.  L’Ambroisie is tourist-unfriendly restaurant for
+among the other guests.  L’Ambroisie is a tourist-unfriendly restaurant for
 tourists.
 
 Later in the evening, a waiter came by to present a basket of white
